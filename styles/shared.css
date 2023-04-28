@@ -6,17 +6,15 @@ body{
 }
 h1{
     font-family: 'Oswald', sans-serif;
-    text-align: center;
-    color: rgb(60, 106, 255);
 }
 
 p{
     font-family: 'Fira Sans', sans-serif;
-    text-align: center;
 }
 
 a {
-    color: rgb(3, 95, 75);
+    font-family: 'Fira Sans', sans-serif;
+    color: rgb(167, 1, 78);
     text-decoration: none;
 }
 
