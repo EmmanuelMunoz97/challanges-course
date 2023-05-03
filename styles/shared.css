@@ -1,8 +1,8 @@
-body{
+body {
     text-align: center;
     background-color: rgb(233, 215, 207);
     color: rgb(66, 65, 65);
-    
+    margin: 50px;
 }
 h1{
     font-family: 'Oswald', sans-serif;
